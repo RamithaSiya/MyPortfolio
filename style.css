@@ -1,0 +1,16 @@
+.icon{
+    display: inline-block;
+}
+
+.links{
+    display: inline-block;    
+}
+
+.links ul li{
+    display: inline-block;
+    margin-right: 2rem;
+}
+
+.nav{
+    background-color: aqua;
+}
